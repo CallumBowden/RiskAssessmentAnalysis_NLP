@@ -1,0 +1,15 @@
+Bomb
+Weapon
+Knife
+Knives
+Blade
+Blades
+Rifle
+Firearm
+Pistol
+Shotgun
+Sniper
+Riot
+Fight
+Children
+Animals
