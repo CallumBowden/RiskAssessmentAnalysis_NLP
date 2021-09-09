@@ -2,6 +2,8 @@
 Using NLP techniques to create a prototype to analyse risk assessments. 
 Part of my MSc Dissertation for MSc Computer Science at USW.
 
+Documents used to test code available via the RiskAssessment folder in repository
+
 
 Instructions;
 
